@@ -7,11 +7,11 @@ const config = {
     authDomain: "crwn-db-1cf5d.firebaseapp.com",
     databaseURL: "https://crwn-db-1cf5d.firebaseio.com",
     projectId: "crwn-db-1cf5d",
-    storageBucket: "",
+    storageBucket: "crwn-db-1cf5d.appspot.com",
     messagingSenderId: "501840352761",
-    appId: "1:501840352761:web:072369c4cb8f6b68e31928",
-    measurementId: "G-W7CXFCVRE9"
-};
+    appId: "1:501840352761:web:260d24f8119bb773e31928",
+    measurementId: "G-5F94BJQW35"
+  };
 
 
 firebase.initializeApp(config);
